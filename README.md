@@ -22,5 +22,3 @@ This repository contains data analysis practices and assignments completed durin
 
 ## Author
 Kim Ji Seon
-Sookmyung Women's University
-Computer Science
